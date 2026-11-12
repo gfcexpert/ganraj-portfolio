@@ -8,9 +8,14 @@
 </p>
 
 <p align="center">
+  <a href="https://ganraj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Website-10B981?style=for-the-badge" alt="Visit live portfolio"/></a>
   <a href="https://github.com/gfcexpert"><img src="https://img.shields.io/badge/GitHub-gfcexpert-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/ganraj-kale077a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:ddkale73@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <strong>🌐 Portfolio:</strong> <a href="https://ganraj-portfolio.vercel.app/">ganraj-portfolio.vercel.app</a>
 </p>
 
 ---
@@ -106,6 +111,14 @@ A web-based administration and business-management project created for the Ganra
 
 Some modules may still be evolving. Refer to the repository source and documentation for the current implementation status.
 
+### 4. Ganraj Kale — Personal Portfolio
+
+<badge color="success">Live website</badge>
+
+**Visit:** [https://ganraj-portfolio.vercel.app/](https://ganraj-portfolio.vercel.app/)
+
+My personal portfolio website — a central place to introduce my work, highlight selected projects, share my technical interests, and make it easy to connect about collaborations and opportunities.
+
 ## 🧩 Services & Solutions I Aim to Build
 
 I’m interested in collaborating on practical projects such as:
@@ -119,6 +132,16 @@ I’m interested in collaborating on practical projects such as:
 - **Custom Software:** dashboards, internal tools, and solutions based on a clear project requirement.
 
 Every project starts with understanding the problem, defining the scope, and choosing an appropriate technical approach.
+
+## 🔄 How I Approach a Project
+
+1. **Understand** — learn about the user's problem, goals, and constraints.
+2. **Plan** — define the scope, essential features, and practical technology choices.
+3. **Build** — develop the solution in clear, manageable steps.
+4. **Test** — check important workflows, handle errors, and improve usability.
+5. **Deliver & Improve** — document the work and identify sensible next improvements.
+
+I value clear communication, realistic timelines, secure handling of data, and maintainable code.
 
 ## 🎓 Education & Learning
 
@@ -136,6 +159,17 @@ I believe learning is continuous. I actively explore new tools, build small expe
 - Improve backend development, databases, and API design.
 - Learn deployment, cloud fundamentals, testing, and application security.
 - Write cleaner, maintainable, and well-documented code.
+
+## 🗺️ Project Roadmap
+
+These are ongoing learning and development priorities, not claims that every item is already complete.
+
+- [ ] Continue improving NIVA AI's reliability and modular architecture.
+- [ ] Expand practical AI and automation workflows.
+- [ ] Improve GFC digital tools and farmer/buyer experience.
+- [ ] Build more useful full-stack applications.
+- [ ] Strengthen testing, documentation, and secure configuration practices.
+- [ ] Share more project demos and development updates.
 
 ## 🤝 Let's Build Something Together
 
@@ -161,6 +195,7 @@ I’ll review the requirements and discuss a suitable approach.
 
 | Platform | Link |
 |---|---|
+| Personal Portfolio | [ganraj-portfolio.vercel.app](https://ganraj-portfolio.vercel.app/) |
 | GitHub | [github.com/gfcexpert](https://github.com/gfcexpert) |
 | LinkedIn | [Ganraj Kale](https://www.linkedin.com/in/ganraj-kale077a/) |
 | Instagram | [GFC Brothers](https://www.instagram.com/gfc_brothers0/) |
@@ -189,6 +224,9 @@ I value curiosity, consistency, practical learning, and honest engineering. I do
 ---
 
 <p align="center">
+  <strong>Thanks for visiting my GitHub profile!</strong><br/>
+  <a href="https://ganraj-portfolio.vercel.app/">Explore my portfolio</a> ·
+  <a href="mailto:ddkale73@gmail.com">Let's connect</a><br/><br/>
   <strong>Designed, built, and maintained by Ganraj Kale</strong><br/>
   <em>BUILDING INTELLIGENCE. CREATING INNOVATION.</em>
 </p>
