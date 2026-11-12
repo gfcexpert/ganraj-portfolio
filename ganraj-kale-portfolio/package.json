@@ -1,0 +1,7 @@
+{
+  "name": "ganraj-kale-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ganraj Kale portfolio: static site plus a Vercel serverless function for project enquiries",
+  "engines": { "node": ">=18" }
+}
